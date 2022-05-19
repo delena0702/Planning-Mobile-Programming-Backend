@@ -1,0 +1,14 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "ku-planning-2022",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "planning",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
