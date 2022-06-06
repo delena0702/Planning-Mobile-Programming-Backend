@@ -9,7 +9,7 @@ class KeyMap {
     dic
 
     constructor() {
-        this.dic = {};
+        this.dic = {"777777": `[{"title":"현충일","content":"","place":"","startTime":"2022.06.06.00.00","endTime":"2022.06.06.23.59","open":true,"color":1,"isHistory":false,"histGrade":"중","histMemo":""},{"title":"☆종강☆","content":"","place":"","startTime":"2022.06.22.00.00","endTime":"2022.06.22.23.59","open":true,"color":4,"isHistory":false,"histGrade":"중","histMemo":""},{"title":"데이터베이스 과제","content":"","place":"","startTime":"2022.06.09.00.00","endTime":"2022.06.11.23.59","open":true,"color":2,"isHistory":false,"histGrade":"중","histMemo":""},{"title":"비공개","content":"비공개","place":"비공개","startTime":"2022.06.13.12.00","endTime":"2022.06.16.12.00","open":false,"color":1,"isHistory":false,"histGrade":"중","histMemo":""},{"title":"팀프로젝트 회의","content":"","place":"Discord","startTime":"2022.06.03.20.00","endTime":"2022.06.03.21.00","open":true,"color":2,"isHistory":true,"histGrade":"상","histMemo":"화요일까지 구현 마무리 할 것!!"},{"title":"기말고사","content":"","place":"","startTime":"2022.06.16.00.00","endTime":"2022.06.22.23.59","open":true,"color":1,"isHistory":false,"histGrade":"중","histMemo":""}]`};
     }
 
     add(key, value) {
